@@ -1,0 +1,12 @@
+# Revenue Shield - Python dependencies
+# Updated for Python 3.14 (Python 3.14 is supported by the current Streamlit stack)
+#
+# Install with:  pip install -r requirements.txt
+# Run with:      streamlit run app.py
+
+streamlit==1.64.0
+pandas==3.0.6
+numpy==2.5.3
+scikit-learn==1.8.0
+plotly==7.0.0
+requests==2.34.2
